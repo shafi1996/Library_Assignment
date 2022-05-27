@@ -1,2 +1,2 @@
 # Library_Assignment
-Assignment to create a Flask based library
+It's Sample Flask Based Book Library
